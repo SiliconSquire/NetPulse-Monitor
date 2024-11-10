@@ -20,7 +20,7 @@ NetPulse Monitor is a lightweight GNOME Shell extension that continuously monito
 
 ## Installation
 1. Clone this repository or download the files
-2. Copy the files to `~/.local/share/gnome-shell/extensions/netpulse-monitor@yourdomain.com`
+2. Copy the files to `~/.local/share/gnome-shell/extensions/netpulse-monitor@siliconsquire.com`
 3. Log out and log back in, or restart GNOME Shell (Alt+F2, type 'r', press Enter)
 4. Enable the extension using GNOME Extensions
 
