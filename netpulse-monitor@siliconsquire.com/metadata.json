@@ -1,0 +1,19 @@
+{
+    "uuid": "NetPulse_Monitor@siliconsquire.com",
+    "name": "NetPulse Monitor",
+    "description": "A GNOME Shell extension that provides real-time network connectivity monitoring with a clean, color-coded interface.",
+    "shell-version": [
+        "3.36",
+        "3.38",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+    ],
+    "version": 2,
+    "url": "",
+    "version-name": "2.0",
+    "settings-schema": "org.gnome.shell.extensions.ping-monitor"
+}
